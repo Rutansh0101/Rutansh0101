@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 **WHO AM I?**
+##  **WHO AM I?**
 
 ```javascript
 const rutansh = {
@@ -27,9 +27,9 @@ const rutansh = {
 
 <div align="center">
   
-### 🌟 **CURRENT FOCUS**
+###  **CURRENT FOCUS**
   
-| 🚀 **Learning** | 🎯 **Building** | 💡 **Exploring** |
+|  **Learning** |  **Building** |  **Exploring** |
 |:---:|:---:|:---:|
 | Advanced DSA in Java | Scalable Web Apps | AI-Powered Solutions |
 | System Design | Creative Mobile Apps | Web Scraping Magic |
@@ -39,18 +39,18 @@ const rutansh = {
 
 ---
 
-## 🛠️ **TECH STACK**
+##  **TECH STACK**
 
 <div align="center">
 
-### **🌐 Frontend Wizardry**
+### ** Frontend Wizardry**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### **⚡ Backend Power**
+### ** Backend Power**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +58,7 @@ const rutansh = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### **🔧 Languages & Tools**
+### ** Languages & Tools**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -66,7 +66,7 @@ const rutansh = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### **🚀 Deployment & Cloud**
+### ** Deployment & Cloud**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
@@ -74,13 +74,13 @@ const rutansh = {
 
 ---
 
-## 🎨 **FEATURED PROJECTS**
+##  **FEATURED PROJECTS**
 
 <div align="center">
 
 ### 🌟 **Project Showcase**
 
-| 🎯 **Project** | 📝 **Description** | 🛠️ **Tech Stack** |
+|  **Project** |  **Description** | 🛠 **Tech Stack** |
 |:---:|:---:|:---:|
 | **🌸 SheWell** | AI-Powered Women's Health & Wellness Platform with cross-platform support | React Native, MERN Stack, GPT APIs, Blockchain |
 | **🎨 Kalakriti** | AI-powered image generation platform built with MERN stack | MongoDB, Express, React, Node.js, AI APIs |
@@ -91,14 +91,14 @@ const rutansh = {
 
 ---
 
-## 🚀 **PROJECT DEEP DIVE**
+##  **PROJECT DEEP DIVE**
 
 <div align="center">
 
 ### 🌸 **SheWell - Empowering Women's Health**
 *"Empowering every woman with access to health, privacy, and voice."*
 
-**🔥 Highlights:**
+** Highlights:**
 - 🤖 **AI Health Chatbot**: Multilingual support for menstrual health, pregnancy, mental wellness
 - 📱 **Cross-Platform**: React Native mobile app + Web application
 - 🔒 **Privacy-First**: Anonymous mode, blockchain health records
@@ -148,7 +148,7 @@ const rutansh = {
 
 ---
 
-## 🎯 **CODING PHILOSOPHY**
+##  **CODING PHILOSOPHY**
 
 <div align="center">
 
@@ -184,12 +184,12 @@ public class Developer {
 <div align="center">
 
 ### 💬 **Always open to discuss:**
-- 🚀 Exciting project collaborations
-- 💡 Creative coding challenges  
-- 🎯 Career opportunities
-- ☕ Tech over coffee (virtual or real!)
+-  Exciting project collaborations
+-  Creative coding challenges  
+-  Career opportunities
+-  Tech over coffee (virtual or real!)
 
-### 📫 **Reach out:**
+###  **Reach out:**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://rutansh-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutanshc0101@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutansh-chawla-7a65852b4)
