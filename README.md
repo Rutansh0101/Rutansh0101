@@ -1,4 +1,4 @@
-# <div align="center">🚀 **RUTANSH CHAWLA** 🚀</div>
+# <div align="center"> **RUTANSH CHAWLA** </div>
 
 <div align="center">
   
