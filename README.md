@@ -80,12 +80,7 @@
 
 </div>
 
----
 
-
-
-
----
 
 ##  **CODING PHILOSOPHY**
 <div align="center">
@@ -139,7 +134,6 @@ public class Developer {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutanshc0101@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutansh-chawla-7a65852b4)
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65"/>
