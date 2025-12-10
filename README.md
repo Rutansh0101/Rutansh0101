@@ -74,6 +74,7 @@
 |  **Project** |  **Description** | 🛠 **Tech Stack** |
 |:---:|:---:|:---:|
 | **🌸 SheWell** | AI-Powered Women's Health & Wellness Platform with cross-platform support | React Native, MERN Stack, GPT APIs, Blockchain |
+| **🗳️ ChatVault** | Real-Time Chat application implemented using web-sockets | socket.io, MERN, AuthN |
 | **🎨 Kalakriti** | AI-powered image generation platform built with MERN stack | MongoDB, Express, React, Node.js, AI APIs |
 | **🎵 VibeStream** | AI-powered music streaming social media platform | MERN Stack, AI Recommendations, Social Features |
 | **🗳️ DigiVote India** | Blockchain-based e-voting platform for secure digital democracy | Blockchain, Smart Contracts, Web3, MERN |
