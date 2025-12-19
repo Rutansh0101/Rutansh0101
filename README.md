@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DSA+Problem+Solver;Creative+Coder;🌟+Building+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;DSA+Problem+Solver;🌟+Building+Digital+Experiences)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://rutansh.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rutansh-chawla-7a65852b4)
