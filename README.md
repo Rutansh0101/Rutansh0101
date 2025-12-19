@@ -20,10 +20,7 @@
   <li> I'm currently working on <code>SheWell - AI Women's Health Platform</code></li>
   <li> I'm currently learning <code>Advanced System Design & AI Integration</code></li>
   <li> I'm looking to collaborate on <code>Innovative Web & Mobile Projects</code></li>
-  <li> I'm looking for help with <code>Open Source Contributions</code></li>
   <li> Ask me about <code>MERN Stack, React Native, DSA, or anything tech!</code></li>
-  <li> Life Hack: <code>Code with passion, debug with patience</code> </li>
-  <li> Fun fact: <code>I can debug code faster than I can solve a Rubik's cube!</code></li>
   <li> Fuel: <code>Coffee + Music = Productive Coding Sessions</code></li>
 </ul>
 
