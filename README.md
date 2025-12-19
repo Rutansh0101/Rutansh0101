@@ -17,6 +17,7 @@
 
 <ul>
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+  <li> I just recently won IISF25 S&T Hackathon at national level.</li>
   <li> I'm currently working on <code>SheWell - AI Women's Health Platform</code></li>
   <li> I'm currently learning <code>Advanced System Design & AI Integration</code></li>
   <li> I'm looking to collaborate on <code>Innovative Web & Mobile Projects</code></li>
